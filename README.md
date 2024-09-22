@@ -1,2 +1,3 @@
-# spell_checking_tools_evaluation
-Repository for the existing spell checking tools evaluation
+# Evaluation of the existing spell checking tools (for English)
+
+Repository description will be updated here.
